@@ -7,7 +7,7 @@
 //
 
 // GitHub に入れた
-// 変更して commit
+
 
 import UIKit
 import AVFoundation
