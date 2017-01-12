@@ -6,6 +6,8 @@
 //  Copyright © 2017年 M. All rights reserved.
 //
 
+// GitHub に入れた
+
 import UIKit
 import AVFoundation
 
